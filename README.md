@@ -10,6 +10,5 @@ and I beginning to lean GitHub.
 
 # 📱 Contact 
 
-[![FACEBOOK](https://img.shields.io/badge/Facebook:SIITHA_KLAPHANICH-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010273261426)
-
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn:Sittha_Klaphanich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)
+[![Facebook Badge](https://img.shields.io/badge/-Sittha_Klaphanich-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010273261426)](https://www.facebook.com/profile.php?id=100010273261426)
+[![Linkedin Badge](https://img.shields.io/badge/-Sittha_Klaphanich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)](https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)
