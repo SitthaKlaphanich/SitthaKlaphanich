@@ -8,6 +8,8 @@ and I beginning to lean GitHub.
 # 🚀 GitHub Stats
 ![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)
 
-# Contact 
+# 📱 Contact 
 
-! [github] https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SitthaKlaphanich
+[![FACEBOOK](https://img.shields.io/badge/Facebook:SIITHA_KLAPHANICH-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010273261426)
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn:Sittha_Klaphanich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)
