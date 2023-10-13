@@ -15,6 +15,7 @@ and I beginning to lean GitHub.
 [![instagram Badge](https://img.shields.io/badge/-Sittha_Klaphanich-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sittha_klaphanich/)](https://www.instagram.com/sittha_klaphanich/)
 [![Github Badge](https://img.shields.io/badge/-Sittha_Klaphanich-181717?sytle=flat&logo=Github&logoColor=white&link=https://github.com/SitthaKlaphanich)](https://github.com/SitthaKlaphanich)
 ![Alt text](./gif/programming.gif)
+
 # 👨🏻‍💻 My Tech Stack
 
 ### Programming Languages
@@ -30,3 +31,9 @@ and I beginning to lean GitHub.
 
  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">  <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SitthaKlaphanich/count.svg" />
+</p>
+
+![Alt text](./gif/Galaxy.gif)
