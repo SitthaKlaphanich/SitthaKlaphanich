@@ -1,13 +1,10 @@
 # HI THERE 👋🏻👨🏻‍💻
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SitthaKlaphanich/count.svg" />
-</p>
-
 ![Alt text](./Images/1.png)
 
- I am Student. Welcome to GitHub for me and study at the university King Mongkut's Institute of Technology Ladkrabang (KMITL)
+I am a student, and I welcome you to GitHub. I study at King Mongkut's Institute of Technology Ladkrabang (KMITL), and I am majoring in Engineering Education. 
+and I beginning to lean GitHub.
 
-I Study from the faculty Engineering Education.
+# 🚀 GitHub Stats
+![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)
 
