@@ -6,7 +6,7 @@ I am a student, and I welcome you to GitHub. I study at King Mongkut's Institute
 and I beginning to lean GitHub.
 
 # 🚀 GitHub Stats
-![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)  
+![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)  ![Alt text](./gif/Sticker.gif)
 
 # 📱 Contact 
 
