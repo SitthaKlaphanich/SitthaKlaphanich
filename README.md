@@ -12,3 +12,4 @@ and I beginning to lean GitHub.
 
 [![Facebook Badge](https://img.shields.io/badge/-Sittha_Klaphanich-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010273261426)](https://www.facebook.com/profile.php?id=100010273261426)
 [![Linkedin Badge](https://img.shields.io/badge/-Sittha_Klaphanich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)](https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)
+[![instagram Badge](https://img.shields.io/badge/-Sittha_Klaphanich-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sittha_klaphanich/)](https://www.instagram.com/sittha_klaphanich/)
