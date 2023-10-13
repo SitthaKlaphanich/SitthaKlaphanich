@@ -6,7 +6,7 @@ I am a student, and I welcome you to GitHub. I study at King Mongkut's Institute
 and I beginning to lean GitHub.
 
 # 🚀 GitHub Stats
-![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)
+![ Sittha GitHub stats](https://github-readme-stats.vercel.app/api?username=SitthaKlaphanich&show_icons=true&theme=transparent)  
 
 # 📱 Contact 
 
@@ -14,7 +14,7 @@ and I beginning to lean GitHub.
 [![Linkedin Badge](https://img.shields.io/badge/-Sittha_Klaphanich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)](https://www.linkedin.com/in/sittha-klaphanich-a79973b1/)
 [![instagram Badge](https://img.shields.io/badge/-Sittha_Klaphanich-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sittha_klaphanich/)](https://www.instagram.com/sittha_klaphanich/)
 [![Github Badge](https://img.shields.io/badge/-Sittha_Klaphanich-181717?sytle=flat&logo=Github&logoColor=white&link=https://github.com/SitthaKlaphanich)](https://github.com/SitthaKlaphanich)
-
+![Alt text](./gif/programming.gif)
 # 👨🏻‍💻 My Tech Stack
 
 ### Programming Languages
